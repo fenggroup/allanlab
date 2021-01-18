@@ -1,0 +1,22 @@
+﻿#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Gandhimathi Padmanaban
+  photo: bio-photo.jpg
+  email: gmathi@umich.edu 
+  number_educ: 1
+  education1: B.E. from Anna University, India
+
+- name: Ayah Hamad
+  photo: bio-photo.jpg
+  email: ayhamad@umich.edu 
+  number_educ: 1
+  education1: B.S. from the University of Michigan-Dearborn
+

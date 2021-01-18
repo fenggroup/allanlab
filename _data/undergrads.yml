@@ -1,0 +1,15 @@
+﻿#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Colleen Hillard
+  photo: bio-photo.jpg
+  email: collehil@umich.edu 
+  number_educ: 0
+  education1:

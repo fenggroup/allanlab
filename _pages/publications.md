@@ -1,17 +1,15 @@
 ---
-title: "Allan Lab - Publications"
+title: "Feng Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Feng Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
-
-## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+---
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -60,3 +58,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+### More to be added..

@@ -1,13 +1,13 @@
 ---
-title: "Feng Group - Publications"
+title: "Feng Group - Papers"
 layout: gridlay
-excerpt: "Feng Group -- Publications."
+excerpt: "Feng Group - Papers."
 sitemap: false
-permalink: /publications/
+permalink: /papers/
 ---
 
 
-# Publications
+# Papers
 ---
 ## Highlights
 

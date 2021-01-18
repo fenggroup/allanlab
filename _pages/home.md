@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [University of Michigan-Dearborn](https://umdearborn.edu). 
-Our overarching goal is to explore and understand how to improve the safety of sustainable, healthy, and equitable transportation modes, such as cycling and walking, for our communities.
+The Feng Group is focused on advancing the *safety* of environmentally sustainable, healthy, and equitable modes of transportation, such as cycling and walking, through the development of data-driven insights, strategies and tactics, and technologies. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -61,7 +60,7 @@ Our overarching goal is to explore and understand how to improve the safety of s
 To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
 See [Research](research) for more information.
 
- We are looking for PhD students starting in Fall 2021. Our PhD program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/), and is administered by [UM-Dearborn](https://umdearborn.edu/). Contact Dr. Feng if you are interested.
+We are looking for PhD students starting in Fall 2021. Our PhD program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/), and is administered by [UM-Dearborn](https://umdearborn.edu/). Contact Dr. Feng if you are interested.
 
 
 <!-- <figure class="fourth">

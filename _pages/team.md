@@ -6,8 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
----
+<!-- # Group Members
+--- -->
 ## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}

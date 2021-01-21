@@ -8,7 +8,6 @@ permalink: /
 
 The Feng Group is focused on advancing the *safety* of environmentally sustainable, healthy, and equitable modes of transportation, such as cycling and walking, through the development of data-driven insights, strategies and tactics, and technologies. 
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -55,7 +54,6 @@ The Feng Group is focused on advancing the *safety* of environmentally sustainab
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 
 To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
 See [Research](research) for more information.

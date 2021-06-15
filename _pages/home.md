@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Feng Group is focused on advancing the *safety* of environmentally sustainable, healthy, and equitable modes of transportation, such as cycling and walking, through the development of data-driven insights, strategies and tactics, and technologies. 
+The Feng Group is focused on advancing the safety of environmentally sustainable, healthy, and equitable modes of transportation, such as cycling and walking, through the development of data-driven insights, strategies and tactics, and technologies. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -18,32 +18,36 @@ The Feng Group is focused on advancing the *safety* of environmentally sustainab
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_closepass.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/lidar-bike.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_fleet.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/point-cloud.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_heatmap_slider.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_closepass.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/cyclingsim.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_fleet.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/cyclingsim_righthook.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_heatmap_slider.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/nds_overtaking.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/cyclingsim.png" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/cyclingsim_righthook.png" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/nds_overtaking.png" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/nds_overtaking_results.png" alt="Slide 7" />
-        </div>
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

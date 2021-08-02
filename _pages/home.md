@@ -62,12 +62,5 @@ The Feng Group is focused on advancing the safety of environmentally sustainable
 To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
 See [Research](research) for more information.
 
-We are looking for PhD students starting in Fall 2021. Our PhD program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/), and is administered by [UM-Dearborn](https://umdearborn.edu/). Contact Dr. Feng if you are interested.
+We are looking for PhD students starting in Fall 2022. Our PhD program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/), and is administered by [UM-Dearborn](https://umdearborn.edu/). Contact Dr. Feng if you are interested.
 
-
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure> -->

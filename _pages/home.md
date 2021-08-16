@@ -6,10 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-The Feng Group is focused on advancing the safety of environmentally sustainable, active, and equitable modes of transportation, such as cycling and walking, through the development of data-driven insights, strategies and tactics, and technologies. 
+<div style="font-size:20px; font-weight:bold">
+<p>We focus on advancing the <span style="color:green">safety</span> of sustainable, active, and equitable mobility modes, such as cycling and walking, through developing data-driven insights, strategies and tactics, and technologies.</p>
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -63,8 +64,21 @@ The Feng Group is focused on advancing the safety of environmentally sustainable
   </a>
 </div>
 
-To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
-See [Research](research) for more information.
-
-We are looking for PhD students starting in Fall 2022. Our PhD program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/), and is administered by [UM-Dearborn](https://umdearborn.edu/). Contact Dr. Feng if you are interested.
-
+<div style="font-size:17px;">
+<p>
+To this end, we use a variety of research methods including 
+**observational studies**,
+**laboratory experiments**,
+**inferential statistics**, 
+**causal inference**,
+**computational modeling & simulation**, 
+**machine learning**, and 
+**human factors**. 
+</p>
+<p>
+We are looking for PhD students starting in Fall 2022. 
+Our program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/)
+and is administered by [UM-Dearborn](https://umdearborn.edu/). 
+Contact Dr. Fred Feng if you are interested.
+</p>
+</div>

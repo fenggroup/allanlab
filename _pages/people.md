@@ -1,13 +1,10 @@
 ---
-title: "Feng Group - Team"
+title: "Feng Group - People"
 layout: gridlay
-excerpt: "Feng Group: Team members"
+excerpt: "Feng Group: People"
 sitemap: false
 permalink: /people/
 ---
-
-<!-- # Group Members
---- -->
 ## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}

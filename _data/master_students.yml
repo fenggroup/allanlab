@@ -8,15 +8,15 @@
 #  education3:
 #  education4:
 
-- name: Gandhimathi Padmanaban
-  photo: gmathi.jpg
-  email: gmathi@umich.edu 
-  number_educ: 1
-  education1: B.E. Anna University, India
+# - name: Gandhimathi Padmanaban
+#   photo: gmathi.jpg
+#   email: gmathi@umich.edu 
+#   number_educ: 1
+#   education1: B.E. Anna University, India
 
-- name: Ayah Hamad
-  photo: hamad.jpg
-  email: ayhamad@umich.edu 
-  number_educ: 1
-  education1: B.S. University of Michigan-Dearborn
+# - name: Ayah Hamad
+#   photo: hamad.jpg
+#   email: ayhamad@umich.edu 
+#   number_educ: 1
+#   education1: B.S. University of Michigan-Dearborn
 

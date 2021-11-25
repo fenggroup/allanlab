@@ -4,3 +4,19 @@
   education1: M.S. University of Connecticut
   education2: M.S. Politecnico di Milano, Italy
   education3: B.T. Pondicherry University, India
+
+- name: Gandhimathi Padmanaban
+  photo: gmathi.jpg
+  email: gmathi@umich.edu 
+  number_educ: 2
+  education1: M.S. University of Michigan-Dearborn
+  education2: B.E. Anna University, India
+  
+
+- name: Ayah Hamad
+  photo: hamad.jpg
+  email: ayhamad@umich.edu
+  number_educ: 2
+  education1: M.S. University of Michigan-Dearborn
+  education2: B.S. University of Michigan-Dearborn
+  

@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="font-size:20px; font-weight:bold">
-<p>We focus on advancing the <span style="color:green">safety</span> of sustainable, active, and equitable mobility modes, such as cycling and walking, through developing data-driven insights, strategies and tactics, and technologies.</p>
+<p>We focus on advancing the safety of sustainable, active, and equitable transportation modes, such as cycling & walking, through developing data-driven insights, strategies and tactics, and technologies.</p>
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -76,7 +76,7 @@ To this end, we use a variety of research methods including
 **human factors**. 
 </p>
 <p>
-We are looking for PhD students starting in Fall 2022. 
+We are looking for PhD students starting in Fall 2023. 
 Our program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/)
 and is administered by [UM-Dearborn](https://umdearborn.edu/). 
 Contact Dr. Fred Feng if you are interested.

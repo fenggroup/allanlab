@@ -8,6 +8,16 @@
 #  education3:
 #  education4:
 
+- name: Jasleen Chahal
+  photo: bike.png
+  info:
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
 # - name: Gandhimathi Padmanaban
 #   photo: gmathi.jpg
 #   email: gmathi@umich.edu 

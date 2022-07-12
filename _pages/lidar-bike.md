@@ -10,9 +10,12 @@ permalink: /lidar-bike/
 
 <div style="font-size: 17px">
 
-We have developed a research bicycle that is equipped with a lidar system (Ouster OS-1 32-channel) that is able to continuously record the riding environment in point cloud data from a moving bicycle.
+We have developed a research bicycle outfitted with a lidar (Ouster OS-1 32-channel). 
+Lidar is able to continuously measure the riding environment in point cloud data from a moving bicycle.
 
-This bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measures from the bicycle to any nearby objects (e.g., surrounding vehicles). 
+This lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). 
+
+<!-- FOR FUTURE: Describe why studying driver-bicyclist interaction can help us. -->
 
 </div>
 

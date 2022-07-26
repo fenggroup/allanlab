@@ -24,7 +24,13 @@ See our interactive dashboards linked below for the data we have collected.
 - [Rouge Gateway Trail, Dearborn, MI](https://umd-bicycle-traffic-data.herokuapp.com/)
 
 
-<!-- The dashboards were created with [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
+The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/).
+
+### Tips on installing bike counters
+
+The video below shows how to install an Eco-Counter TUBE bike counter on a multi-use path.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dvMzmCewGzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 

@@ -258,8 +258,15 @@ permalink: /people/
 </div>
 {% endif %}
 
-## Former Master/undergraduate students and visitors
+## Former students
 <div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>PhD students</h4>
+{% for member in site.data.alumni_phd %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
@@ -275,12 +282,12 @@ permalink: /people/
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
 </div>
 

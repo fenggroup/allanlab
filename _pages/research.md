@@ -45,3 +45,5 @@ We has developed a high-fidelity virtual reality (VR) cycling simulator that cou
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim_righthook.png){: style="width: 56%; float: center; margin: 0px"}
 
 ### More to be added..
+
+<br>

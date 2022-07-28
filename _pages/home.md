@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="font-size:20px; font-weight:bold">
-<p>We focus on advancing the safety of sustainable, active, and equitable transportation modes, such as cycling and walking, through developing data-driven insights and human-centered technologies.</p>
+<p>We focus on advancing sustainable, active, and equitable modes of transportation, such as cycling and walking, through developing data-driven insights and human-centered technologies.</p>
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -21,6 +21,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
     </ol>
 
     <!-- Items -->
@@ -51,6 +52,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/nds_overtaking_results.png" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/bike-counter.png" />
         </div>   
 
     </div>
@@ -79,6 +83,7 @@ To this end, we use a variety of research methodologies including
 We are looking for PhD students starting in January 2023. 
 Our program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/)
 and is administered by [UM-Dearborn](https://umdearborn.edu/). 
-Contact Dr. Fred Feng if you are interested.
+[Contact Dr. Fred Feng](mailto:fredfeng@umich.edu) if you are interested.
 </p>
 </div>
+<br>

@@ -14,7 +14,8 @@ We use a bike counter ([Eco-Counter pneumatic tube counter](https://www.eco-coun
 
 This device allows studying the usages of various road/street infrastructures by people on bicycles. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-rouge.png){: style="width: 50%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-rouge.png){: style="width: 45%; float: center; margin: 5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-a2division.png){: style="width: 45%; float: center; margin: 5px"}
 
 ### Interactive dashboards
 

@@ -28,10 +28,10 @@ This lidar bicycle allows us to study driver-bicyclist interactions in real-worl
 
 Try interacting with our point clouds below using a mouse or your fingers to rotate the view or zoom in/out. 
 
-You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-1.html" target="_blank">click here</a>** to open it in a new browser tab.
+You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" target="_blank">click here</a>** to open it in a new browser tab.
 
 
-<iframe src="https://fenggroup.org/pointcloud/examples/bike-1.html" style="width: 900px; height:510px; border:0px;"></iframe>
+<iframe src="https://fenggroup.org/pointcloud/examples/bike-2.html" style="width: 900px; height:510px; border:0px;"></iframe>
 
 ### Lidar recording demo video
 

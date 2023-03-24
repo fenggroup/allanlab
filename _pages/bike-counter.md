@@ -21,11 +21,10 @@ This device allows studying the usages of various road/street infrastructures by
 
 See our interactive dashboards linked below for the data we have collected. 
 
+- [Ann Arbor Division Bikeway](https://bikecounter.org/annarbor-1)
+- [Dearborn Rouge Gateway Trail](https://bikecounter.org/dearborn-1)
 
-- [Rouge Gateway Trail, Dearborn, MI](https://umd-bicycle-traffic-data.herokuapp.com/)
-
-
-The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/).
+<!-- The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
 
 ### Tips on installing bike counters
 

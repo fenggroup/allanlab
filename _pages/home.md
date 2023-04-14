@@ -27,10 +27,10 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/lidar-bike.png" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/lidar-bike-pointcloud.png" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/point-cloud.png" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/lidar-bike.png" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_900x450/ncs_closepass.png" />

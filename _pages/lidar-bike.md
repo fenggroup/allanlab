@@ -1,7 +1,7 @@
 ---
-title: "Feng Group - Cycling simulator"
+title: "Feng Group - Lidar bike"
 layout: textlay
-excerpt: "Feng Group -- Cycling simulator"
+excerpt: "Feng Group -- Lidar bike"
 sitemap: false
 permalink: /lidar-bike/
 ---
@@ -10,7 +10,7 @@ permalink: /lidar-bike/
 
 <div style="font-size: 17px">
 
-We have developed a research bicycle outfitted with a lidar (Ouster OS-1 32-channel). 
+We have developed a research bicycle outfitted with a lidar (Ouster OS-1 128-channel). 
 Lidar is able to continuously measure the riding environment in point cloud data from a moving bicycle.
 
 This lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). 

@@ -26,6 +26,14 @@ See our interactive dashboards linked below for the data we have collected.
 
 <!-- The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
 
+### Posters
+
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/bike-counter-poster-thumbnail.png){: style="width: 90%; float: center; margin: 5px"}
+
+[Click here](../publications/posters/bike-counter-overview-poster-fenggroup.pdf) to download the poster in PDF.
+
 ### Tips on installing bike counters
 
 The video below shows how to install an Eco-Counter TUBE bike counter on a multi-use path.

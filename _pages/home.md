@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="font-size:20px; font-weight:bold">
-<p>We focus on advancing sustainable, active, and equitable modes of transportation through data-driven insights and technologies.</p>
+<p>Advancing sustainable, active, and equitable transportation modes through data-driven insights and technologies</p>
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

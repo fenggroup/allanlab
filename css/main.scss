@@ -109,3 +109,31 @@ pubtit {
 			  user-select: none; /* Non-prefixed version, currently
 									supported by Chrome, Edge, Opera and Firefox */
   }
+
+.video-container {
+	position: relative;
+	padding-bottom: calc(75% * 0.75); /* 4:3 */
+	height: 0;
+  }
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 96%;
+	height: 100%;
+  }
+
+.iframe-container {
+	position: relative;
+	padding-bottom: calc(75% * 0.75); /* 4:3 */
+	height: 0;
+  }
+  
+.iframe-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 96%;
+	height: 100%;
+  }

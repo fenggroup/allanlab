@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
 
 Our overarching goal is to explore and understand how to improve the safety of sustainable, healthy, and equitable transportation modes, such as cycling and walking, for our communities.
 To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
@@ -21,18 +21,18 @@ We have examined a number of naturalistic data sets from different perspectives.
 
 **Naturalistic driving data**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nds.png){: style="width: 40%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nds.png){: style="width: 45%; float: center; margin: 0px"}
 &nbsp;&nbsp;
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nds_passing.png){: style="width: 48%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nds_passing.png){: style="width: 53%; float: center; margin: 0px"}
 
 <br>
 **Naturalistic cycling data:** We have conducted a naturalistic cycling study in Ann Arbor, Michigan. 
 In the study a fleet of four electric bicycles were instrumented with cameras, GPS, and other sensors that continuously record the data. 
 During the two-year data collection (2018-2019), a total of 77 participants completed the study, covering over 8,000 km of riding data.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ncs_bike.png){: style="width: 40%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ncs_bike.png){: style="width: 42%; float: center; margin: 0px"}
 &nbsp;&nbsp;
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ncs_closepass.png){: style="width: 53%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ncs_closepass.png){: style="width: 55%; float: center; margin: 0px"}
 
 
 <br>
@@ -40,10 +40,10 @@ During the two-year data collection (2018-2019), a total of 77 participants comp
 
 We has developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., motorists) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim.png){: style="width: 35%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim.png){: style="width: 36%; float: center; margin: 0px"}
 &nbsp;&nbsp;
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim_righthook.png){: style="width: 56%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim_righthook.png){: style="width: 62%; float: center; margin: 0px"}
 
-### More to be added..
+**More to be added..**
 
 <br>

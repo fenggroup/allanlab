@@ -19,10 +19,13 @@ This lidar bicycle allows us to study driver-bicyclist interactions in real-worl
 
 </div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike.png){: style="height: 240px; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike.png){: style="width: 38%; float: center; margin: 0px"}
 &nbsp;
-![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike-data.png){: style="height: 240px; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike-data.png){: style="width: 57%; float: center; margin: 0px"}
 
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike.png){: style="height: 240px; float: center; margin: 0px"}
+&nbsp;
+![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar-bike-data.png){: style="height: 240px; float: center; margin: 0px"} -->
 
 ### Online interactive point cloud visualization
 
@@ -30,12 +33,15 @@ Try interacting with our point clouds below using a mouse or your fingers to rot
 
 You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" target="_blank">click here</a>** to open it in a new browser tab.
 
-
-<iframe src="https://fenggroup.org/pointcloud/examples/bike-2.html" style="width: 900px; height:510px; border:0px;"></iframe>
+<div class="iframe-container">
+<iframe width="900" height="510" frameBorder="0" src="https://fenggroup.org/pointcloud/examples/bike-2.html"></iframe>
+<!-- <iframe src="https://fenggroup.org/pointcloud/examples/bike-2.html" style="width: 900px; height:510px; border:0px;"></iframe> -->
+</div>
 
 ### Lidar recording demo video
 
+<div class="video-container">
 <iframe width="900" height="510" src="https://www.youtube.com/embed/rD5kJfxHXNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 <br><br>

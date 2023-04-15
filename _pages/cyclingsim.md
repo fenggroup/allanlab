@@ -6,28 +6,29 @@ sitemap: false
 permalink: /cyclingsim/
 ---
 
-## Virtual reality (VR) cycling simulator
+### Virtual reality (VR) cycling simulator
 
 <div style="font-size: 17px">
 We have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment.
 
 This simulator allows us to study driver-bicyclist interactions, cyclist behaviors and facility preferences, and among many other things in a safe, controlled, and replicable environment.
-
-Technical details on the simulator development can be found in [Ayah Hamad's Master's thesis](http://dx.doi.org/10.7302/1035).
+The technical details on the simulator development can be found in [Ayah Hamad's Master's thesis](http://dx.doi.org/10.7302/1035).
 
 </div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim.png){: style="height: 275px; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim.png){: style="width: 35%; float: center; margin: 0px"}
 &nbsp;
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim_righthook.png){: style="height: 275px; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim_righthook.png){: style="width: 60%; float: center; margin: 0px"}
 
-### Demo video
+<!-- #### Demo video -->
 
+<div class="video-container">
 <iframe width="940" height="530" src="https://www.youtube.com/embed/qgruklgacVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
 
-### Walking in cyclists' shoe
+#### Walking in cyclists' shoe
 
 <div style="font-size: 17px">
 - A number of virtual scenarios of common dangerous encounters (e.g., close passes) by cyclists were developed.
@@ -36,7 +37,8 @@ Technical details on the simulator development can be found in [Ayah Hamad's Mas
 
 </div>
 
+<div class="video-container">
 <iframe width="940" height="530" src="https://www.youtube.com/embed/videoseries?list=PLzlbBFSTeX9cM2L1V814VCxhbg0Q6GsZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 <br><br>

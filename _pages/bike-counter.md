@@ -6,7 +6,7 @@ sitemap: false
 permalink: /bike-counter/
 ---
 
-## Bike counter
+### Bike counter
 
 <div style="font-size: 17px">
 
@@ -14,10 +14,10 @@ We use a bike counter ([Eco-Counter pneumatic tube counter](https://www.eco-coun
 
 This device allows studying the usages of various road/street infrastructures by people on bicycles. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-rouge.png){: style="width: 45%; float: center; margin: 5px"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-a2division.png){: style="width: 45%; float: center; margin: 5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-rouge.png){: style="width: 47%; float: center; margin: 5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bike-counter-a2division.png){: style="width: 47%; float: center; margin: 5px"}
 
-### Interactive dashboards
+#### Interactive dashboards
 
 See our interactive dashboards linked below for the data we have collected. 
 
@@ -26,19 +26,19 @@ See our interactive dashboards linked below for the data we have collected.
 
 <!-- The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
 
-### Posters
+#### Posters
 
+![]({{ site.url }}{{ site.baseurl }}/images/bike-counter-poster-thumbnail.png){: style="width: 95%; float: center; margin: 5px"}
 
+<!-- [Click here](../publications/posters/bike-counter-overview-poster-fenggroup.pdf) to download the poster in PDF. -->
 
-![]({{ site.url }}{{ site.baseurl }}/images/bike-counter-poster-thumbnail.png){: style="width: 90%; float: center; margin: 5px"}
-
-[Click here](../publications/posters/bike-counter-overview-poster-fenggroup.pdf) to download the poster in PDF.
-
-### Tips on installing bike counters
+#### Other resources
 
 The video below shows how to install an Eco-Counter TUBE bike counter on a multi-use path.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dvMzmCewGzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br><br>
 

@@ -10,10 +10,12 @@ permalink: /lidar-bike/
 
 <div style="font-size: 17px">
 
-We have developed a research bicycle outfitted with a lidar (Ouster OS-1 128-channel). 
-Lidar is able to continuously measure the riding environment in point cloud data from a moving bicycle.
+We have developed a research bicycle outfitted with a [lidar](https://en.wikipedia.org/wiki/Lidar) (Ouster OS-1 128-channel). 
+The lidar on the bicycle is able to continuously measure the 3D environment in point clouds,
+which are made up of hundreds of thousand of data points in a 3-dimensional space. 
 
 This lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). 
+This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs. 
 
 <!-- FOR FUTURE: Describe why studying driver-bicyclist interaction can help us. -->
 
@@ -29,7 +31,7 @@ This lidar bicycle allows us to study driver-bicyclist interactions in real-worl
 
 ### Online interactive point cloud visualization
 
-Try interacting with our point clouds below using a mouse or your fingers to rotate the view or zoom in/out. 
+You can interact with the point clouds below using a mouse or your fingers to rotate the view or zoom in/out. 
 
 You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" target="_blank">click here</a>** to open it in a new browser tab.
 

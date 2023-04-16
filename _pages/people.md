@@ -5,7 +5,7 @@ excerpt: "Feng Group: People"
 sitemap: false
 permalink: /people/
 ---
-## Principal Investigator
+### Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
 
@@ -68,7 +68,7 @@ permalink: /people/
 {% endif %}
 
 
-## PhD Students
+### PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
 
@@ -133,7 +133,7 @@ permalink: /people/
 
 
 
-## Master Students
+### Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.master_students %}
 
@@ -196,7 +196,7 @@ permalink: /people/
 {% endif %}
 
 
-## Undergraduate Students
+### Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.undergrads %}
 
@@ -258,7 +258,7 @@ permalink: /people/
 </div>
 {% endif %}
 
-## Former students
+### Former students
 <div class="row">
 
 <div class="col-sm-4 clearfix">

@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<div style="font-size:20px; font-weight:bold">
-<p>Advancing sustainable, active, and equitable transportation modes through data-driven insights and technologies</p>
+<div style="font-size:20px; font-weight:bold; text-align:center;">
+<p>Advancing sustainable, active, and equitable modes of transportation through data-driven insights & technologies</p>
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -73,8 +73,8 @@ permalink: /
 To this end, we use a variety of research methods including
 **observational studies**,
 **laboratory experiments**,
-**causal inference**,
 **applied statistics**, 
+**causal inference**,
 **machine learning**,
 **human factors**, and
 **computational modeling and simulation**. 

@@ -6,18 +6,23 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
+### Research
 
-Our overarching goal is to explore and understand how to improve the safety of sustainable, healthy, and equitable transportation modes, such as cycling and walking, for our communities.
-To this end, we use a variety of quantitative methodologies including behavioral data analysis, statistical learning, computational human performance modeling, and human factors. 
+The overarching goal of our research is to advance sustainable, active, and equitable modes of transportation, such as cycling and walking, through data-driven insights and technologies.
+To this end, we use a variety of research methodologies including
+observational studies,
+laboratory experiments,
+applied statistics, 
+causal inference,
+machine learning,
+human factors, and
+computational modeling and simulation. 
 
-Here are some methodologies that we currently work on:
-
-**Observational studies**: A *naturalistic* study is a type of a observational study where researchers observe and record human (e.g., motorists) behavior in its natural setting and over a prolonged period. 
+**Observational studies**: A *naturalistic* study is a type of an [observational study](https://en.wikipedia.org/wiki/Observational_study) where researchers observe and record human (e.g., drivers) behaviors in their natural settings and typically over a prolonged period.
 Naturalistic studies are usually expensive to conduct, and the data analysis often requires more advanced statistical methods as the variables under investigation were typically not controlled by the researchers. 
-However, data from naturalistic studies is uniquely valuable for its high ecological validity. 
+However, data from naturalistic studies is uniquely valuable for its high [ecological validity](https://en.wikipedia.org/wiki/Ecological_validity). 
 
-We have examined a number of naturalistic data sets from different perspectives.
+Our group has examined a number of naturalistic transportation data sets from a variety of perspectives.
 
 **Naturalistic driving data**
 
@@ -38,7 +43,7 @@ During the two-year data collection (2018-2019), a total of 77 participants comp
 <br>
 **Laboratory experiments**: In addition to using the naturalistic road user behavioral data, we also conduct laboratory experiments to examine factors that may not be addressed from the naturalistic data.
 
-We has developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., motorists) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
+We have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/cyclingsim.png){: style="width: 36%; float: center; margin: 0px"}
 &nbsp;&nbsp;

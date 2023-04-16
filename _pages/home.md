@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<div style="font-size:20px; font-weight:bold; text-align:center;">
+<div style="font-size:22px; font-weight:bold; text-align:center;">
 <p>Advancing sustainable, active, and equitable modes of transportation through data-driven insights & technologies</p>
 </div>
 

@@ -137,3 +137,9 @@ pubtit {
 	width: 96%;
 	height: 100%;
   }
+
+@media (max-width:400px){
+    .navbar-brand{
+        display:none;
+    }
+}

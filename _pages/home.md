@@ -1,10 +1,12 @@
 ---
-title: "Feng Group - Home"
+title: "Feng Group"
 layout: homelay
 excerpt: "Feng Group at the University of Michigan-Dearborn."
 sitemap: false
 permalink: /
 ---
+
+![]({{ site.url }}{{ site.baseurl }}/images/fenggroup-logo.png){: style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 20px;"}
 
 <div style="font-size:22px; font-weight:bold; text-align:center;">
 <p>Advancing sustainable, active, and equitable modes of transportation through data-driven insights & technologies</p>

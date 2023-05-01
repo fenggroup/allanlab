@@ -10,7 +10,7 @@ permalink: /lidar-bike/
 
 <div style="font-size: 17px">
 
-We have developed a research bicycle outfitted with a [lidar](https://en.wikipedia.org/wiki/Lidar) (Ouster OS-1 128-channel). 
+We have developed a research bicycle outfitted with a [lidar](https://en.wikipedia.org/wiki/Lidar) (Ouster OS1-128). 
 The lidar on the bicycle is able to continuously measure the 3D environment in point clouds,
 which are made up of hundreds of thousand of data points in a 3-dimensional space. 
 
@@ -37,13 +37,12 @@ You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" t
 
 <div class="iframe-container">
 <iframe width="900" height="510" frameBorder="0" src="https://fenggroup.org/pointcloud/examples/bike-2.html"></iframe>
-<!-- <iframe src="https://fenggroup.org/pointcloud/examples/bike-2.html" style="width: 900px; height:510px; border:0px;"></iframe> -->
 </div>
 
 ### Lidar recording demo video
 
 <div class="video-container">
-<iframe width="900" height="510" src="https://www.youtube.com/embed/rD5kJfxHXNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="510" src="https://www.youtube.com/embed/gmzX6tZ84Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br><br>

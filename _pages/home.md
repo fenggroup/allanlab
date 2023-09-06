@@ -9,7 +9,7 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/fenggroup-logo.png){: style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 20px;"}
 
 <div style="font-size:24px; font-weight:bold; text-align:center; padding-top: 10px; color: #196345">
-<p>Advancing sustainable, active, equitable, and just <br>transportation systems through data-driven insights</p>
+<p>Advancing sustainable, active, and equitable transportation systems through data-driven insights</p>
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

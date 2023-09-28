@@ -78,9 +78,9 @@ permalink: /
   </a>
 </div>
 
-<div style="font-size:17px;">
+<div style="font-size:18px;padding-left: 10px;padding-right: 10px">
 <p>
-To this end, we use a variety of research methods including
+We use a variety of research methods including
 **observational studies**,
 **laboratory experiments**,
 **data mining**,
@@ -91,10 +91,10 @@ To this end, we use a variety of research methods including
 **computational modeling and simulation**. 
 </p>
 <p>
-We are looking for PhD students starting in Fall 2024. 
+<!-- We are looking for PhD students starting in Fall 2024. 
 Our program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/)
 and is administered by [UM-Dearborn](https://umdearborn.edu/). 
-Contact Dr. Fred Feng if you are interested.
+Contact Dr. Fred Feng if you are interested. -->
 </p>
 </div>
 <br>

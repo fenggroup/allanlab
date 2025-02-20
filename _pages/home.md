@@ -81,7 +81,7 @@ permalink: /
 <div style="font-size:18px;padding-left: 10px;padding-right: 10px">
 <p>
 We use a variety of research methods including
-**data analytics**,
+data analytics,
 <!-- **observational studies**,
 **laboratory experiments**, -->
 applied statistics, 

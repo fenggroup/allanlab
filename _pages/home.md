@@ -84,17 +84,17 @@ We use a variety of research methods including
 **data analytics**,
 <!-- **observational studies**,
 **laboratory experiments**, -->
-**applied statistics**, 
-**causal inference**,
-**machine learning**,
-**human factors**, and
-**computational modeling and simulation**. 
+applied statistics, 
+causal inference,
+machine learning,
+human factors, and
+computational modeling and simulation. 
 </p>
-<p>
+<!-- <p>
 We are looking for PhD students starting in Fall 2025. 
 Our program is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/)
 and is administered by [UM-Dearborn](https://umdearborn.edu/). 
 Contact Fred if you are interested.
-</p>
+</p> -->
 </div>
 <br>
